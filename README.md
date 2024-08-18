@@ -4,6 +4,7 @@ Dynamic To-Do List Website
 This is a simple and dynamic To-Do List web application that allows users to create, manage, and track their tasks. The website offers a clean user interface and includes features such as task addition, deletion, and local storage for saving tasks.
 
 Features
+
 Add Tasks:
 Users can add tasks by typing in the input box and clicking the "Add" button.
 Delete Tasks: 
