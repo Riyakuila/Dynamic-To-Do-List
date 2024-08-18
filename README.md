@@ -23,4 +23,4 @@ This is a *simple and dynamic To-Do List* web application that allows users to c
 
 ## Sample Video
 
-Here is a [sample video](#) demonstrating the To-Do List application.
+Here is a [sample video](https://drive.google.com/file/d/1eNZyvDWEpEIIYz3sXR0z9gZyit7DOuAm/view?usp=drive_link) demonstrating the To-Do List application.
