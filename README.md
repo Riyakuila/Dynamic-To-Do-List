@@ -5,48 +5,27 @@ This is a simple and dynamic To-Do List web application that allows users to cre
 
 Features
 
-Add Tasks:
+Add Tasks:Users can add tasks by typing in the input box and clicking the "Add" button.
 
-Users can add tasks by typing in the input box and clicking the "Add" button.
+Delete Tasks:Tasks can be removed by clicking the "×" symbol next to the task.
 
-Delete Tasks:
+Mark as Complete: Tasks can be marked as complete by clicking on them, which applies a strikethrough style.
 
-Tasks can be removed by clicking the "×" symbol next to the task.
+Persistent Data:Tasks are saved in the browser's local storage, so they remain even after the page is refreshed.
 
-Mark as Complete: 
-
-Tasks can be marked as complete by clicking on them, which applies a strikethrough style.
-
-Persistent Data:
-
-Tasks are saved in the browser's local storage, so they remain even after the page is refreshed.
-
-Responsive Design: 
-
-The website is responsive and adapts to different screen sizes.
 
 Technologies Used
 
-HTML:
+HTML:Structures the content of the web page.
 
-Structures the content of the web page.
-CSS: 
+CSS: Styles the web page, providing layout, colors, and responsive design.
 
-Styles the web page, providing layout, colors, and responsive design.
-JavaScript: 
-
-Implements the functionality of the To-Do List, including task management and local storage.
+JavaScript: Implements the functionality of the To-Do List, including task management and local storage.
 
 Project Structure
 
-index.html:
+index.html:The main HTML file that structures the content and links the CSS and JavaScript files.
 
-The main HTML file that structures the content and links the CSS and JavaScript files.
+style.css:Contains the styles for the To-Do List, including layout, colors, and responsiveness.
 
-style.css:
-
-Contains the styles for the To-Do List, including layout, colors, and responsiveness.
-
-script.js:
-
-The JavaScript file that adds interactivity to the To-Do List, such as adding, deleting, and saving tasks.
+script.js:The JavaScript file that adds interactivity to the To-Do List, such as adding, deleting, and saving tasks.
